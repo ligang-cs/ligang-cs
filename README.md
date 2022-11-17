@@ -1,4 +1,10 @@
-### Hi there 👋
+ <!-- ### Hi👋 -->
+- ✨ I am Gang Li (李钢), a final year Ph.D student at Nanjing Univeristy of Science and Technology, supervised by [Prof. Xiang Li](http://implus.github.io/) and [Prof. Shanshan Zhang](https://sites.google.com/site/shanshanzhangshomepage/).
+- 🌱 I’m currently working as a research intern at Shanghai AI Lab, mentored by [Wenhai Wang](https://whai362.github.io/).
+- 👯 I have spent one and a half years at Sensetime Reseach as a long-term research intern.
+- 🔭 My research topics include 2D/3D object detection, knowledge distillation, self-/semi-supervised learning. 
+
+[![Gang Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=ligang-cs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ligang-cs/ligang-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
